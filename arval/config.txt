@@ -1,0 +1,3 @@
+username= £££"CrayS"£££    
+password= £££"Florence_10"£££  
+contract_profile_config = £££"WP Contract Hire New"£££   # business_and_personal or personal  # WP Contract Hire New   # WP PCH Used
